@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("juridicoScrapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e528d3013137c1ea08e1c5dd013a3ed014bf3812")]
 [assembly: System.Reflection.AssemblyProductAttribute("juridicoScrapping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("juridicoScrapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

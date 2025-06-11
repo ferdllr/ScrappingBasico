@@ -26,6 +26,8 @@ for(int i = 0; i<ProcessosHTMLElements.Count();i++)
     processos.Add(processo);
 }
 
+Console.WriteLine("TESTE DE WEBSCRAPPING PROCESSOS");
+Console.WriteLine("BUSCA: Rumo Malha Sul");
 foreach (var processo in processos)
 {
     Console.WriteLine("----------------------------------");

@@ -16,3 +16,4 @@
 /home/jorneyu/Dev/Presoft/juridicoScrapping/obj/Debug/net9.0/juridicoScrapping.genruntimeconfig.cache
 /home/jorneyu/Dev/Presoft/juridicoScrapping/obj/Debug/net9.0/ref/juridicoScrapping.dll
 /home/jorneyu/Dev/Presoft/juridicoScrapping/bin/Debug/net9.0/HtmlAgilityPack.CssSelectors.dll
+/home/jorneyu/Dev/Presoft/juridicoScrapping/obj/Debug/net9.0/juridicoScrapping.sourcelink.json
